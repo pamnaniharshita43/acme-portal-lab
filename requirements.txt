@@ -5,6 +5,6 @@
 pytest==7.4.0
 requests==2.25.1
 jinja2==2.11.3
-markupsafe==2.0.1
+markupsafe==3.0.3
 pyyaml==5.3.1
 urllib3==1.26.4
